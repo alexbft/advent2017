@@ -13,7 +13,7 @@ private fun isPrime(x: Int): Boolean {
 }
 
 fun main() {
-    // reverse-engineered from input (see 23.txt)
+    // reverse-engineered from input (see day23.txt)
     val b = 109900
     val c = 126900
     var h = 0
